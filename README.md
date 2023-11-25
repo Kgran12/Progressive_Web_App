@@ -3,8 +3,7 @@
 ## Table of Contents
 - Description
 - Features
-- Features
-- Walkthrough
+- Instillation
 - Questions
 
 ## Description
@@ -19,10 +18,11 @@ To use this app please follow these steps:
 - server management
 - API Routes
 
-## Walkthrough
+## Instillation
 
-https://drive.google.com/file/d/1rkNt2EjINrRnC_f_gy4CZiuKpCXOlWI_/view
-
+- pull down/clone repository
+- run npm i
+- run npm start
 
 ## Credits
 
